@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== bbPress Extension for MemberMouse ===
 Contributors: membermouse
 Donate link: http://membermouse.com/
 Tags: bbpress, membermouse, forum, membership
